@@ -6,6 +6,7 @@ function great() {
 }
 
 function smallest() {
+
     if (small > nums[k]) {
         small = nums[k];
         return small;

@@ -11,3 +11,19 @@ do {
 }
 while (i < n.length);
 console.log(small);
+
+
+
+var nums = [34, 214, 0, -11, -33, 22, 222, 3221];
+nums.forEach(
+    (n,k)=>{let i=0
+        small=n;
+        if(small>nums[k]){
+            small=nums[k];
+        }
+
+    }
+)
+
+
+
