@@ -6,7 +6,7 @@ const heightjohn = 1.95;
 const bmimark = massmark / heightmark ** 2;
 const bmijohn = massjohn / heightjohn ** 2;
 if (bmimark > bmijohn) {
-    console.log('marks ${ bmimark }');
+    console.log(`${bmimark}`);
 
 } else {
     console.log("mark's  " + bmimark + " higher then " + bmijohn);
