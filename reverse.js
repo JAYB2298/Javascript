@@ -1,4 +1,5 @@
-/*function reverse(n) {
+
+function reverse(n) {
     n = n + "";
     let k = n
         .split("")
@@ -10,7 +11,7 @@
 }
 console.log(reverse(12212));
 
-*/
+
 function reverses(num) {
     let n = num.toString();
 
@@ -24,3 +25,11 @@ function reverses(num) {
     return parseInt(str);
 }
 console.log(reverses(3244));
+
+let x=[3,45,333,4,5];
+let y=x.reverse();
+console.log(y);
+
+
+
+

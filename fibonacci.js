@@ -1,3 +1,4 @@
+
 let fib = (n) => {
     const fibarray = [0, 1];
     for (var i = 2; i < n; i++) {
@@ -7,4 +8,3 @@ let fib = (n) => {
 }
 
 console.log(fib(20));
-

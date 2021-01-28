@@ -1,3 +1,4 @@
+
 const names = ["jay", "yaman", "anubhav"];
 
 for (i = 0; i <= names.length - 1; i++) {
@@ -20,5 +21,11 @@ for (let j of names) {
     }
 }
 */
+
+
+
+let n = [2, 3, 1, 5, 6, 7];
+console.log(n.indexOf(3));
+console.log(Math.max(...n));
 
 

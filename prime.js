@@ -1,3 +1,4 @@
+
 function checkp(n) {
     for (var k = 2; k <= n - 1; k++) {
         if (n % k == 0) {
