@@ -11,8 +11,8 @@ let brr=[[2,3,4],[7,3,6],[5,2,5]]
 
 for(let i=0;i<brr.length;i++){
     for (let j=0;j<=i;j++){
-    brr[i,j]{
-        temp2+=Element;
-    });
+    brr[i,j]
+        
+}
 }
 console.log(temp2);

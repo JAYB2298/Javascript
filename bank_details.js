@@ -9,7 +9,7 @@ class Bankcustomer{
 
     Acc_Details(){
        console.log(`Account Details 
-       NAme = ${this.Acc_Name}
+       NAme = ${this.Acc_Name};
        ID = ${this.Acc_Num}`);
    }
 }
