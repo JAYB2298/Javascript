@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(233, 62, 62);
+}
+
+h2 {
+  color: rgb(43, 187, 79);
+}
+
+img {
+  width: 600px;
+}
+
+.block1 {
+  border: 5px solidrgb(245, 238, 238);
+  background-color: rgb(225, 230, 196);
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
